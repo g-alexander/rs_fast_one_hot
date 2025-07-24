@@ -7,7 +7,7 @@ version = "0.1.0"
 authors = [{name = "GAlexander", email = "g.alexander.box@gmail.com"}]
 description = "Simple class for fast one hot encoding. Support scikit-learn transformer interface and multithreading."
 readme = "README.md"
-requires-python = ">=3.7, <3.14.0"
+requires-python = ">=3.8, <3.14.0"
 dependencies = [
     "scikit-learn"
 ]
