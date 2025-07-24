@@ -30,7 +30,7 @@ to back to single thread:
 transformer.to_single_thread()
 ```
 complete example
-```pycon
+```python
 from rs_fast_one_hot import OneHotTransformer
 
 data = ['1a', '1a', '2h', '5j', '8n', '8n', '5j']
