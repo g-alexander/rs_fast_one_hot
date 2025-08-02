@@ -300,7 +300,7 @@ dependencies = [
 
 [[package]]
 name = "rs_fast_one_hot"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "pyo3",
  "rayon",

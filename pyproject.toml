@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel", "setuptools-rust"]
 
 [project]
 name = "rs_fast_one_hot"
-version = "0.1.0"
+version = "0.1.1"
 authors = [{name = "GAlexander", email = "g.alexander.box@gmail.com"}]
 description = "Simple class for fast one hot encoding. Support scikit-learn transformer interface and multithreading."
 readme = "README.md"

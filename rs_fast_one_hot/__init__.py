@@ -3,7 +3,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from typing import List, Tuple
 from scipy.sparse import csr_matrix
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 class OneHotTransformer(TransformerMixin, BaseEstimator):
     def __init__(self, n_jobs: int = 0):
